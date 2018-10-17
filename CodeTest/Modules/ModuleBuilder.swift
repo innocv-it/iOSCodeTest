@@ -1,0 +1,4 @@
+
+protocol ModuleBuilder {
+	func build()
+}
